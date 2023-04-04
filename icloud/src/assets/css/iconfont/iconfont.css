@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3701449 */
+  src: url('iconfont.woff2?t=1665641302227') format('woff2'),
+       url('iconfont.woff?t=1665641302227') format('woff'),
+       url('iconfont.ttf?t=1665641302227') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tianjiahaoyou:before {
+  content: "\e7dc";
+}
+
+.icon-wodehaoyou:before {
+  content: "\e7c1";
+}
+
+.icon-dangqianhuihua:before {
+  content: "\e665";
+}
+
+.icon-24gf-folderShare:before {
+  content: "\eac5";
+}
+
+.icon-yichuhaoyou:before {
+  content: "\e888";
+}
+
+.icon-jurassic_user:before {
+  content: "\e6a4";
+}
+
+.icon-haoyoutixing:before {
+  content: "\e60e";
+}
+
+.icon-wenjianfenxiang:before {
+  content: "\e6dc";
+}
+
+.icon-shanchuhaoyou_huaban1:before {
+  content: "\e60b";
+}
+
+.icon-icon-test:before {
+  content: "\e663";
+}
+
+.icon-icon-test1:before {
+  content: "\e664";
+}
+
+.icon-icon-test2:before {
+  content: "\e667";
+}
+
+.icon-icon-test3:before {
+  content: "\e66b";
+}
+
+.icon-user__easyico:before {
+  content: "\e600";
+}
+
+.icon-BARISTA:before {
+  content: "\e645";
+}
+

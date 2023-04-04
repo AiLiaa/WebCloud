@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://101.34.23.125:3306/javaee_project?userSSL=false
+    username: root
+    password: 1013lohoZ!
+
+server:
+  port: 8989
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

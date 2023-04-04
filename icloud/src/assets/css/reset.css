@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    vertical-align: middle;
+}
+body{
+    font-family: '微软雅黑', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background: #f5f5f5;
+}
